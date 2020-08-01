@@ -55,7 +55,7 @@ coverage.xml
 *.mo
 *.pot
 
-#Ignore config file
+# Ignore config file
 config.py
 
 # Django stuff:
