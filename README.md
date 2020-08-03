@@ -20,7 +20,7 @@ Jack loved the PlanMyTrip app that I created. Beta testers loved it too. And, as
 1) In the new version, the count of random latitudes and longitudes was incresed from 1,500 to 2,000. Current weather description was also added to the output.
 
 Image 1 (below): DataFrae contatining the results of the cities with a column for 'Current Description' added
-![DataFrae contatining the results of the cities with a column for 'Current Description' added](./Weather_Database/output_with_current_weather_description.png)
+![DataFrae contatining the results of the cities with a column for 'Current Description' added](./Weather_Database/output_with_current_weather_description.PNG)
 
 2) 
 
