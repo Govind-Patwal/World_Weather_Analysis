@@ -36,11 +36,11 @@ Jack loved the PlanMyTrip app that I created. Beta testers loved it too. And, as
     ![Description of all the hotels meeting the criteria on Google Maps](./Vacation_Search/WeatherPy_vacation_map.png)
 
 
-3) Four hotels chosen by the beta testers
-    * Wild Rose Inn, Vegreville, Canada
-    * Super 8 by Wyndham Slave Lake AB, Slave Lake, Canada
-    * Motel 49, Spirit River, Canada
-    * Ramada Limited Quesnel, Quesnel, Canada 
+3) Four cities chosen by the beta testers
+    * Vegreville, Canada
+    * Slave Lake, Canada
+    * Spirit River, Canada
+    * Quesnel, Canada 
 
     **Image 4 (below): Travel route between the 4 selected cities**
 
