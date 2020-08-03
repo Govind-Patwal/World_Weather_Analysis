@@ -29,11 +29,11 @@ Jack loved the PlanMyTrip app that I created. Beta testers loved it too. And, as
     What is the maximum temperature you would like for your trip? ***90***
 
 **Image 2 (below): Hotels in cities meeting the temperature criteria**
-![Hotels in cities meeting the temperature criteria](./Vacation_Search/hotels_in_cities_meeting_the_temperature_criteria.PNG)
+![Hotels in cities meeting the temperature criteria](./Vacation_Search/hotels_in_cities_meeting_the_temperature_criteria.png)
 
 **Image 3 (below): Markers and descriptions of all hotels meeting the criteria on Google Maps**
 
-![Description of all the hotels meeting the criteria on Google Maps](./Vacation_Search/WeatherPy_vacation_map.PNG)
+![Description of all the hotels meeting the criteria on Google Maps](./Vacation_Search/WeatherPy_vacation_map.png)
 
 
 3) Four hotels chosen by the beta testers
@@ -44,8 +44,8 @@ Jack loved the PlanMyTrip app that I created. Beta testers loved it too. And, as
 
 **Image 4 (below): Travel route between the 4 selected cities**
 
-![Travel route between the 4 selected cities](./Vacation_Itinerary/WeatherPy_travel_map.PNG)
+![Travel route between the 4 selected cities](./Vacation_Itinerary/WeatherPy_travel_map.png)
 
 **Image 5 (below): Selected hotesl with markers and descriptions**
 
-![Selected hotesl with markers and descriptions](./Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+![Selected hotesl with markers and descriptions](./Vacation_Itinerary/WeatherPy_travel_map_markers.png)
